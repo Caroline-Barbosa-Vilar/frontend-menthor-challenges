@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -10,4 +11,15 @@ a {
 
 ul, li {
   list-style: none;
-}/*# sourceMappingURL=style.css.map */
+}
+
+html, body {
+  font-family: "Manrope", sans-serif;
+  font-size: 0.8125rem;
+}
+
+.container {
+  padding: 0 2rem;
+}
+
+@im;/*# sourceMappingURL=style.css.map */

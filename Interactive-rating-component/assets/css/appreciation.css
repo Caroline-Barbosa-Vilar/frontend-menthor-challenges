@@ -1,0 +1,14 @@
+.appreciation {
+  text-align: center;
+  padding-top: 3rem;
+}
+.appreciation-title {
+  color: var(--title-color);
+  font-size: 2.8rem;
+}
+.appreciation-text {
+  color: var(--text-color);
+  font-size: 1.5rem;
+  padding: 1rem 3.5rem;
+  line-height: 1.6;
+}

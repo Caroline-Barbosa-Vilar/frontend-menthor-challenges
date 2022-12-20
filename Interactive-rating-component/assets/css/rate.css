@@ -1,0 +1,25 @@
+.rate {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3rem 4rem 0 3.2rem;
+}
+.rate-btn {
+    width: 5rem;
+    height: 5rem;
+    background-color: var(--circle-bg-color);
+    border-radius: 50%;
+    color: var(--text-color);
+    font-size: 1.6rem;
+    transition: all .3s ease;
+}
+.rate-btn:hover {
+    color: var(--title-color);
+    background-color: var(--btn-bg-color);
+    cursor: pointer;
+}
+.rate-btn:active {
+    color: var(--title-color);
+    background-color: var(--text-color);
+    cursor: pointer;
+}

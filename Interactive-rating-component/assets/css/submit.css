@@ -1,0 +1,19 @@
+.submit {
+    width: 34rem;
+    height: 4.5rem;
+    margin: 3.2rem 3.2rem;
+    border-radius: 3rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+    letter-spacing: .2rem;
+    text-transform: uppercase;
+    color: var(--title-color);
+    background-color: var(--btn-bg-color);
+    transition: all .3s ease;
+}
+.submit:hover,
+.submit:active {
+    color: var(--btn-bg-color);
+    background-color: var(--title-color);
+    cursor: pointer;
+}

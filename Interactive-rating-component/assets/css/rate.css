@@ -15,11 +15,11 @@
 }
 .rate-btn:hover {
     color: var(--title-color);
-    background-color: var(--btn-bg-color);
-    cursor: pointer;
-}
-.rate-btn:active {
-    color: var(--title-color);
     background-color: var(--text-color);
     cursor: pointer;
 }
+/* .rate-btn:active {
+    color: var(--title-color);
+    background-color: var(--text-color);
+    cursor: pointer;
+} */
